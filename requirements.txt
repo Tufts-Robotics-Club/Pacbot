@@ -109,7 +109,7 @@ qt-gui==0.3.11
 qt-gui-cpp==0.3.11
 qt-gui-py-common==0.3.11
 reportlab==3.4.0
-requests==2.18.4
+requests==2.20.0
 requests-unixsocket==0.1.5
 resource-retriever==1.12.4
 rosbag==1.14.3
