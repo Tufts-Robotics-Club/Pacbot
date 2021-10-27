@@ -23,7 +23,7 @@ cryptography==3.3.2
 cupshelpers==1.0
 cv-bridge==1.13.0
 cycler==0.10.0
-dask==1.1.1
+dask==2021.10.0
 decorator==4.3.2
 defer==1.0.6
 diagnostic-analysis==1.9.3
